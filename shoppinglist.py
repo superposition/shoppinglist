@@ -5,6 +5,7 @@ sl = []
 
 PATH_TO_MY_FILE = './shoppinglist.txt'
 
+#nick is a fucking asshole
 
 # oneitemdictionary = {item : "bread"}
 # oneitemdictionary['item']
